@@ -1,0 +1,18 @@
+{
+  "name": "Gingko App",
+  "version": "4.1.0",
+  "description": "Write better, faster with a new kind of word processor",
+  "icons": {
+  	"24": "24.png",
+  	"128": "128.png"
+  },
+  "app": {
+    "urls": [
+      "*://gingkoapp.com/"
+    ],
+    "launch": {
+      "web_url": "https://gingkoapp.com/app"
+    }
+  },
+  "manifest_version": 2
+}
